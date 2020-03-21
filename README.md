@@ -1,3 +1,4 @@
 # git-playground
 This is my demo git repo
-Le's have some fun..
+Let's have some fun..
+This is the new line we added.
